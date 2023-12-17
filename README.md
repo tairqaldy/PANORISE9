@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PANORISE9
+- 👋 Hi, I’m @tairqaldy
 - 👀 I’m interested in programming on Java and Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects in Java
-- 📫 How to reach me tair.caldy@mail.ru
+- 🌱 I’m currently C#
+- 💞️ I’m looking to collaborate on projects in Java AND C#
+- 📫 How to reach me taircaldy.yt@gmail.com
 
 <!---
 PANORISE9/PANORISE9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
